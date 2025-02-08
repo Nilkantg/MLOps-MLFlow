@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/807085812812098383/45b27c55bbf74ce88fcd70d8e69bc72f/artifacts
+end_time: 1738988223306
+entry_point_name: ''
+experiment_id: '807085812812098383'
+lifecycle_stage: active
+run_id: 45b27c55bbf74ce88fcd70d8e69bc72f
+run_name: debonair-deer-795
+run_uuid: 45b27c55bbf74ce88fcd70d8e69bc72f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738988222512
+status: 3
+tags: []
+user_id: hp

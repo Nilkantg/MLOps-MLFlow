@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9cc59d2869e9490fa6de3988a307df96/artifacts
+end_time: 1738987513725
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9cc59d2869e9490fa6de3988a307df96
+run_name: nosy-pig-693
+run_uuid: 9cc59d2869e9490fa6de3988a307df96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738987512335
+status: 3
+tags: []
+user_id: hp

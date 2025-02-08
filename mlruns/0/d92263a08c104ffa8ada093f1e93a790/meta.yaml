@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d92263a08c104ffa8ada093f1e93a790/artifacts
+end_time: 1738986496571
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d92263a08c104ffa8ada093f1e93a790
+run_name: charming-owl-235
+run_uuid: d92263a08c104ffa8ada093f1e93a790
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738986496438
+status: 3
+tags: []
+user_id: hp

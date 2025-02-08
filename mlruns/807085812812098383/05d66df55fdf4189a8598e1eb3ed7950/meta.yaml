@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/807085812812098383/05d66df55fdf4189a8598e1eb3ed7950/artifacts
+end_time: 1738988815401
+entry_point_name: ''
+experiment_id: '807085812812098383'
+lifecycle_stage: active
+run_id: 05d66df55fdf4189a8598e1eb3ed7950
+run_name: bald-cub-653
+run_uuid: 05d66df55fdf4189a8598e1eb3ed7950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738988801827
+status: 3
+tags: []
+user_id: hp
